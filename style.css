@@ -90,6 +90,9 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+.grid-spacing {
+  margin: 20px 0px;
+}
 #h2-center-text {
   text-align: center;
 }
